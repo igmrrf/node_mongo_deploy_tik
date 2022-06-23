@@ -1,0 +1,14 @@
+{
+  "name": "node_mongo_tik",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "igmrrf",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.0"
+  },
+  "scripts": {
+    "start": "node node.js"
+  }
+}
